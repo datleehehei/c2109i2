@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\bin\Debug\net7.0\C2109i2buoi2tren3.exe
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\bin\Debug\net7.0\C2109i2buoi2tren3.deps.json
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\bin\Debug\net7.0\C2109i2buoi2tren3.runtimeconfig.json
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\bin\Debug\net7.0\C2109i2buoi2tren3.dll
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\bin\Debug\net7.0\C2109i2buoi2tren3.pdb
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\obj\Debug\net7.0\C2109i2buoi2tren3.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\obj\Debug\net7.0\C2109i2buoi2tren3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\obj\Debug\net7.0\C2109i2buoi2tren3.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\obj\Debug\net7.0\C2109i2buoi2tren3.AssemblyInfo.cs
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\obj\Debug\net7.0\C2109i2buoi2tren3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\obj\Debug\net7.0\C2109i2buoi2tren3.dll
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\obj\Debug\net7.0\refint\C2109i2buoi2tren3.dll
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\obj\Debug\net7.0\C2109i2buoi2tren3.pdb
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\obj\Debug\net7.0\C2109i2buoi2tren3.genruntimeconfig.cache
+C:\Users\ACER\source\repos\c2109i2\C2109i2buoi2tren3\obj\Debug\net7.0\ref\C2109i2buoi2tren3.dll
