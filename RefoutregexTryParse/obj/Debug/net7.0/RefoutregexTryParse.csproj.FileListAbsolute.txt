@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\obj\Debug\net7.0\RefoutregexTryParse.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\obj\Debug\net7.0\RefoutregexTryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\obj\Debug\net7.0\RefoutregexTryParse.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\obj\Debug\net7.0\RefoutregexTryParse.AssemblyInfo.cs
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\obj\Debug\net7.0\RefoutregexTryParse.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\bin\Debug\net7.0\RefoutregexTryParse.exe
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\bin\Debug\net7.0\RefoutregexTryParse.deps.json
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\bin\Debug\net7.0\RefoutregexTryParse.runtimeconfig.json
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\bin\Debug\net7.0\RefoutregexTryParse.dll
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\bin\Debug\net7.0\RefoutregexTryParse.pdb
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\obj\Debug\net7.0\RefoutregexTryParse.dll
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\obj\Debug\net7.0\refint\RefoutregexTryParse.dll
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\obj\Debug\net7.0\RefoutregexTryParse.pdb
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\obj\Debug\net7.0\RefoutregexTryParse.genruntimeconfig.cache
+C:\Users\ACER\source\repos\c2109i2\RefoutregexTryParse\obj\Debug\net7.0\ref\RefoutregexTryParse.dll

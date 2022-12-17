@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C2109i2Buoi22", "C2109i2Buoi22\C2109i2Buoi22.csproj", "{45AC4E23-9258-4C69-9ED5-75FF68BCDC15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C2109i2Buoi22", "C2109i2Buoi22\C2109i2Buoi22.csproj", "{45AC4E23-9258-4C69-9ED5-75FF68BCDC15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C2109i2buoi2tren3", "C2109i2buoi2tren3\C2109i2buoi2tren3.csproj", "{278D2F4F-4C9B-4D28-AEA6-E46B39CC550D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C2109i2buoi2tren3", "C2109i2buoi2tren3\C2109i2buoi2tren3.csproj", "{278D2F4F-4C9B-4D28-AEA6-E46B39CC550D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefoutregexTryParse", "RefoutregexTryParse\RefoutregexTryParse.csproj", "{B397EE47-028F-4A88-9AF0-E003B0F40739}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{278D2F4F-4C9B-4D28-AEA6-E46B39CC550D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{278D2F4F-4C9B-4D28-AEA6-E46B39CC550D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{278D2F4F-4C9B-4D28-AEA6-E46B39CC550D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B397EE47-028F-4A88-9AF0-E003B0F40739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B397EE47-028F-4A88-9AF0-E003B0F40739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B397EE47-028F-4A88-9AF0-E003B0F40739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B397EE47-028F-4A88-9AF0-E003B0F40739}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

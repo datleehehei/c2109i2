@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\source\\repos\\C2109i2\\C2109i2buoi2tren3\\C2109i2buoi2tren3.csproj": {}
+    "C:\\Users\\ACER\\source\\repos\\c2109i2\\RefoutregexTryParse\\RefoutregexTryParse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\source\\repos\\C2109i2\\C2109i2buoi2tren3\\C2109i2buoi2tren3.csproj": {
+    "C:\\Users\\ACER\\source\\repos\\c2109i2\\RefoutregexTryParse\\RefoutregexTryParse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\C2109i2\\C2109i2buoi2tren3\\C2109i2buoi2tren3.csproj",
-        "projectName": "C2109i2buoi2tren3",
-        "projectPath": "C:\\Users\\ACER\\source\\repos\\C2109i2\\C2109i2buoi2tren3\\C2109i2buoi2tren3.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\c2109i2\\RefoutregexTryParse\\RefoutregexTryParse.csproj",
+        "projectName": "RefoutregexTryParse",
+        "projectPath": "C:\\Users\\ACER\\source\\repos\\c2109i2\\RefoutregexTryParse\\RefoutregexTryParse.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\source\\repos\\C2109i2\\C2109i2buoi2tren3\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\source\\repos\\c2109i2\\RefoutregexTryParse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

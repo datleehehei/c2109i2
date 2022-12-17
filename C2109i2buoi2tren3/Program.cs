@@ -1,4 +1,5 @@
-﻿using System.Reflection.Metadata;
+﻿using System.Collections;
+using System.Reflection.Metadata;
 using System.Text;
 using System.Xml;
 
@@ -55,10 +56,12 @@ string[] arrs={ "dat", "manh", "tam", "luan" };
 
 foreach (var t in arrs)
 {
-
+    Console.WriteLine(t);
 }
 
-while (true)
+IEnumerator e = arrs.GetEnumerator();
+while (e.MoveNext())
 {
-
+    string? = e.Current.ToString();
+    Console.WriteLine(s);
 }
